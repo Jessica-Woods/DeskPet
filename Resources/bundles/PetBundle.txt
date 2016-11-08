@@ -1,0 +1,2 @@
+BITMAP,Pet,Pet.png,160,100,3,4,10
+ANIM,PetAnimations,PetAnimations.txt
